@@ -1,4 +1,6 @@
 # Identification of drug targets for _Mycobacterium tuberculosis_ from Biomedical Literature
+Ana Lisboa PG49831
+
 
 This repository was created within the scope of the Bioinformatics Project, containing the materials I used for the completion of my project titled "Identification of drug targets for Mycobacterium tuberculosis from Biomedical Literature".
 
